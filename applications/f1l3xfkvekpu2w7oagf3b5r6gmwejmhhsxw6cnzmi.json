@@ -36,14 +36,24 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2024-04-10 09:53:51.911472638 UTC",
+    "Validated By": "Bitengine-reeta",
     "Active": true,
-    "Updated At": "2024-04-03 09:11:53.965945379 UTC",
-    "Active Request ID": "",
+    "Updated At": "2024-04-10 09:53:51.911479536 UTC",
+    "Active Request ID": "d52612ae-4e61-4484-be0d-3b8b11666818",
     "On Chain Address": "f1l3xfkvekpu2w7oagf3b5r6gmwejmhhsxw6cnzmi",
     "Multisig Address": "false"
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "d52612ae-4e61-4484-be0d-3b8b11666818",
+      "Request Type": "First",
+      "Created At": "2024-04-10 09:53:51.911480988 UTC",
+      "Updated At": "2024-04-10 09:53:51.911481736 UTC",
+      "Active": true,
+      "Allocation Amount": "500TiB",
+      "Signers": []
+    }
+  ]
 }
