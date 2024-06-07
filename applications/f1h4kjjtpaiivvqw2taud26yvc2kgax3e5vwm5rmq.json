@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1h4kjjtpaiivvqw2taud26yvc2kgax3e5vwm5rmq",
+  "Issue Number": "5",
+  "Client": {
+    "Name": "Beijing Mipai Culture Media",
+    "Region": "China",
+    "Industry": "Arts & Recreation",
+    "Website": "https://www.todaysuccess.cn",
+    "Social Media": "微信视频号：觅拍文化",
+    "Social Media Type": "WeChat",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Beijing Mipai Culture Media Co., Ltd. (Abbreviated as: Jincheng Culture)\r\n\r\nFounded in 2010, it is an integrated marketing one-stop advertising service organisation with film and television production as the core! The company has a professional brand integrating creativity/execution/marketing.\r\n\r\nThe planning and production team, \"customer-centred and results-oriented\", thinks about the value of video from a marketing perspective.\r\n\r\nFor more than 10 years, we have focussed on the development and production of promotional videos, commercial advertising and film and television projects, bringing together industry marketing experts and film and television experts to create creative services and video marketing tools such as film and television projects, commercial advertising, marketing communication, and business activities.\r\n\r\nAt present, it has served more than 200 well-known enterprises at home and abroad, more than 1,000 successful video cases and more than 100 marketing activities, involving the Internet, automobile, education, real estate, finance and other industries, including Shengxun, JD.com, Mengniu, China Mobile, China Unicom, Futian Cummins, Toyota Automobile, Wanwei Successful cases such as Education, Wanda Group, Huaxia Bank, Nanjing Bank and other enterprises have been trusted by customers and have become loyal and good partners on the marketing road.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "**Short Video Generation** : \r\nProfessional services: TikTok generation operation, short-sighted collar transportation Camp, Machine Frequency Number Operation Outsourcing, Kuaishou Agency Operation, TikTok Promotion, network promotion company and other outsourcing services.\r\n**Advertising Video**:\r\nCorporate promotional videos, product promotional videos, brand promotional videos,City promotional videos and so on.\r\n**Advertising Film**:\r\nProduct class TVE, service class TVE, branditis TVC, etc.\r\n**Film**:\r\nA number of award-winning works at home and abroad, shooting in the cinema in 2016 The movie Love of Kunlun\r\n3D Animation:Make 3D animation video for many well-known real estate projects, scientific and technological products and automobiles, etc.\r\n**BR and Strategy**:\r\nBrand planning, product planning, channel and investment planning, terminal planning, product launch planning, brand communication and promotion planning, advertising planning, etc.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.todaysuccess.cn/a/qyxcp/403.html\r\nhttps://www.todaysuccess.cn/a/qyxcp/402.html\r\nhttps://www.todaysuccess.cn/a/ggp/401.html\r\nhttps://www.todaysuccess.cn/a/ggp/400.html\r\nhttps://www.todaysuccess.cn/a/ggp/399.html",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02199999\r\nf02848894\r\nf02851383\r\nf01769576\r\nf03074592\r\nf03074583",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "7.8 PiB",
+    "Single Size Dataset": "1.2 PiB",
+    "Replicas": 6,
+    "Weekly Allocation": "800 TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-06-07 02:57:15.826179251 UTC",
+    "Validated By": "Bitengine-reeta",
+    "Active": true,
+    "Updated At": "2024-06-07 02:58:45.727311247 UTC",
+    "Active Request ID": "29a14248-c9aa-4cfc-9a10-8d582420e3e1",
+    "On Chain Address": "f1h4kjjtpaiivvqw2taud26yvc2kgax3e5vwm5rmq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "29a14248-c9aa-4cfc-9a10-8d582420e3e1",
+      "Request Type": "First",
+      "Created At": "2024-06-07 02:57:15.826185710 UTC",
+      "Updated At": "2024-06-07 02:57:15.826187046 UTC",
+      "Active": false,
+      "Allocation Amount": "400TiB",
+      "Signers": [
+        {
+          "Github Username": "Bitengine-reeta",
+          "Signing Address": "f1km6utrorrtqh572e3ybfu7jq2gfktkgfghscr6i",
+          "Created At": "2024-06-07 02:58:38.365000000 UTC",
+          "Message CID": "bafy2bzacean47hwewd4okppqhtm2mw4mvambe6h4rjwdpfgo6vgzamwqamxda"
+        }
+      ]
+    }
+  ]
+}
