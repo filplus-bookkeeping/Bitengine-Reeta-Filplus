@@ -35,11 +35,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-11-04 07:12:04.246768501 UTC",
     "Validated By": "Bitengine-reeta",
     "Active": true,
-    "Updated At": "2024-11-04 07:12:04.246772729 UTC",
+    "Updated At": "2024-11-04 07:14:32.577359013 UTC",
     "Active Request ID": "1cfd364d-e018-4553-be67-9439fde0a7f0",
     "On Chain Address": "f1q5fi45hihrkjupht77xuw3ie7b23byz3j7kmuxq",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-11-04 07:12:04.246774687 UTC",
       "Updated At": "2024-11-04 07:12:04.246776280 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "500TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "Bitengine-reeta",
+          "Signing Address": "f1km6utrorrtqh572e3ybfu7jq2gfktkgfghscr6i",
+          "Created At": "2024-11-04 07:07:55.442000000 UTC",
+          "Message CID": "bafy2bzacebypjrg2pgd6lgjkhc2kg7haat2wu3fd33i3cvsccgvrttwgb6dhw"
+        }
+      ]
     }
   ]
 }
