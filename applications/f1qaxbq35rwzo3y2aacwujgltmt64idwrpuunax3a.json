@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1qaxbq35rwzo3y2aacwujgltmt64idwrpuunax3a",
+  "Issue Number": "7",
+  "Client": {
+    "Name": "sxqiaonao",
+    "Region": "China",
+    "Industry": "Education & Training",
+    "Website": "https://www.sxqiaonao.com",
+    "Social Media": "巧脑企管",
+    "Social Media Type": "WeChat",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Qiaonao Enterprise Management Consulting Co., Ltd. was established in 2016. And it aims to provide one-stop business services for micro, small and medium-sized enterprises, helping them develop better and faster. In the process of enterprises development, Qiaonao is the best partner to accompany the growth of them with professional solutions to fiscal and tax problems. Meanwhile it saves the operating costs in the process of their own development. Now Qiaonao has begun to take shape in accounting services in Shaoxing area.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "It belongs to the video class tutorial data. As an important material for the company's employee training, these data can improve the basic skills and abilities of employees to meet the company's business requirements in relevant directions.The content includes corporate management, financial management, tax and economic law, etc., which is closely related to the company's main business. There is no doubt that the content of these courses is rich and professional.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "Using public project/tools ,such as lotus/boost/Singularity",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://ke.qq.com/course/3548035#term_id=103688824\r\nhttps://ke.qq.com/course/291162#term_id=100344898\r\nhttps://ke.qq.com/course/3418024#term_id=103552664\r\nhttps://ke.qq.com/course/458253#term_id=100548363\r\nhttps://ke.qq.com/course/1581703#term_id=101680134\r\nhttps://ke.qq.com/course/1797131#term_id=101897891\r\nhttps://ke.qq.com/course/4033665#term_id=104186672\r\nhttps://ke.qq.com/course/3580953#term_id=103723115\r\nhttps://ke.qq.com/course/3580942/#term_id=103723103\r\nhttps://ke.qq.com/course/321730#term_id=100381938",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe",
+    "How will you be distributing your data to storage providers": "Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "SP ID:f03091738 Location:US\r\nSP ID:f02199999 Location:Singapore\r\nSP ID:f03074583 Location:Japan\r\nSP ID:f03000070 Location:China",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "4.5 PiB",
+    "Single Size Dataset": "450 TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "400 TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-11-07 06:34:59.855334192 UTC",
+    "Validated By": "Bitengine-reeta",
+    "Active": true,
+    "Updated At": "2024-11-07 06:37:08.176794603 UTC",
+    "Active Request ID": "92e9179a-482c-4ed0-9d0e-b8f7aee36d8f",
+    "On Chain Address": "f1qaxbq35rwzo3y2aacwujgltmt64idwrpuunax3a",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "92e9179a-482c-4ed0-9d0e-b8f7aee36d8f",
+      "Request Type": "First",
+      "Created At": "2024-11-07 06:34:59.855339991 UTC",
+      "Updated At": "2024-11-07 06:34:59.855341542 UTC",
+      "Active": false,
+      "Allocation Amount": "200TiB",
+      "Signers": [
+        {
+          "Github Username": "Bitengine-reeta",
+          "Signing Address": "f1km6utrorrtqh572e3ybfu7jq2gfktkgfghscr6i",
+          "Created At": "2024-11-07 06:30:27.232000000 UTC",
+          "Message CID": "bafy2bzaceaazd2ghi7yaslf4srczrzocboszqzl7lfs6aisvjg7kfihebcmlk"
+        }
+      ]
+    }
+  ]
+}
