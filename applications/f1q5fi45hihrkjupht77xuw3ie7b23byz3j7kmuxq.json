@@ -35,7 +35,7 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-02-24 03:30:33.240266878 UTC",
     "Validated By": "Bitengine-reeta",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "8ce987db-31ed-47c0-ad89-6693531eb6f7",
     "On Chain Address": "f1q5fi45hihrkjupht77xuw3ie7b23byz3j7kmuxq",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
