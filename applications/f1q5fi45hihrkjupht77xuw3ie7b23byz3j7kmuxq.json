@@ -12,18 +12,18 @@
     "Role": "Data Preparer"
   },
   "Project": {
-    "Brief history of your project and organization": "Jiangsu Juqing Interactive Media Co., Ltd. is a media company focused on innovation and quality. Founded on June 2, 2021, it is recognized as a leader in the industry, dedicated to providing top-notch promotional videos, filming, and related production services.\r\n\r\nThe company is equipped with cutting-edge technology and a skilled professional team. Whether creating corporate image films or capturing the highlights of specific events, we work tirelessly to ensure our products effectively convey your message and resonate with the audience.",
+    "Brief history of your project and organization": "Jiangsu Juqing Interactive Media Co., Ltd. is a media company focused on innovation and quality. Founded on June 2, 2021, it is recognized as a leader in the industry, dedicated to providing top-notch promotional videos, filming, and related production services.\n\nThe company is equipped with cutting-edge technology and a skilled professional team. Whether creating corporate image films or capturing the highlights of specific events, we work tirelessly to ensure our products effectively convey your message and resonate with the audience.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "The company produces a variety of videos, including short videos, promotional films, documentaries, microfilms, and 3D animations.",
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
     "How do you plan to prepare the dataset": "No response",
-    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.jsjuqingcm.cn/ztp.html\r\nhttp://www.jsjuqingcm.cn/xcp.html",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.jsjuqingcm.cn/ztp.html\nhttp://www.jsjuqingcm.cn/xcp.html",
     "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
     "What is the expected retrieval frequency for this data": "Sporadic",
     "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Africa, North America, South America, Europe, Australia (continent), Antarctica",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03066836\r\nf03081958\r\nf03151449\r\nf1315096 \r\nf03055005 \r\nf03055018 \r\nf03055029\r\nf01518369\r\nf01889668\r\nf03151456\r\nf03179572\r\nf03214937\r\nf03178144\r\nf03178077\r\nf01106668 \r\nf0870558 \r\nf03151449\r\nf03151456",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01083939\nf01081394\nf03055029\nf03300963\nf01083931\nf01083949\nf01106668\nf01315096\nf01518369\nf01889668\nf03055005\nf03055018\nf0870558",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
